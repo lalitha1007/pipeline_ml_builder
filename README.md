@@ -1,4 +1,4 @@
-# 🚀 No-Code ML Pipeline Builder
+# 🚀 ML Pipeline Builder
 
 A web-based, no-code Machine Learning pipeline builder that allows users to create and run simple ML workflows without writing any code. Built with Flask backend and a clean, intuitive web interface.
 
@@ -230,7 +230,8 @@ This project is created for educational and demonstration purposes.
 
 This is an assignment/demonstration project. Suggestions and improvements are welcome!
 
-## 📧 Support
+## 📧 Developer
+Made with 🎯 by Lalitha K
 
 For issues or questions, please refer to the troubleshooting section above.
 
