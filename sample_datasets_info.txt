@@ -1,0 +1,11 @@
+# Sample datasets for testing the ML Pipeline Builder
+
+# You can download these datasets from:
+# 1. Iris Dataset: https://archive.ics.uci.edu/ml/datasets/iris
+# 2. Titanic Dataset: https://www.kaggle.com/c/titanic/data
+# 3. Wine Quality: https://archive.ics.uci.edu/ml/datasets/wine+quality
+
+# Or create your own CSV with:
+# - Numerical feature columns
+# - One target column for classification
+# - At least 2 rows of data
