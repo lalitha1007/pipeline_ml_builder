@@ -231,10 +231,8 @@ This project is created for educational and demonstration purposes.
 This is an assignment/demonstration project. Suggestions and improvements are welcome!
 
 ## 📧 Developer
-Made with 🎯 by Lalitha K
+Made with 🎯 by Lalitha 
 
 For issues or questions, please refer to the troubleshooting section above.
 
-## 👨‍💻 Developer
-Made with 🎯 by Lalitha
 
